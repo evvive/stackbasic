@@ -4,7 +4,7 @@
   "description": "StackBasic official library",
   "main": "./src/main.ts",
   "scripts": {
-    "test": "ts-run ./src/main.ts"
+    "test": "npx ts-node ./src/main.ts"
   },
   "keywords": [
     "stackbasic",
