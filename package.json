@@ -1,0 +1,22 @@
+{
+  "name": "stackbasic",
+  "version": "1.0.0",
+  "description": "StackBasic official library",
+  "main": "./src/main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "stackbasic",
+    "programming",
+    "language"
+  ],
+  "author": "evvive",
+  "license": "BSD-3-Clause",
+  "devDependencies": {
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.5"
+  },
+  "dependencies": {
+  }
+}
